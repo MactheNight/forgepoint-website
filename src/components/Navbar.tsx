@@ -15,7 +15,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 h-[72px] flex items-center justify-between">
         <Link to="/" className="flex items-center group">
           <img 
-            src="/forgepoint-logo-dark-transparent.png" 
+            src="/forgepoint-logo-light.svg" 
             alt="ForgePoint Healthcare Consulting" 
             className="h-10 md:h-12 w-auto object-contain"
             fetchPriority="high"

@@ -7,7 +7,7 @@ export default function Footer() {
         <div>
           <div className="flex items-center mb-6">
             <img 
-              src="/forgepoint-logo-light-transparent.png" 
+              src="/forgepoint-logo-dark.svg" 
               alt="ForgePoint Healthcare Consulting" 
               className="h-10 w-auto object-contain"
               loading="lazy"
