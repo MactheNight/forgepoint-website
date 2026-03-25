@@ -17,7 +17,7 @@ export default function Navbar() {
           <img 
             src="/forgepoint-logo-light.svg" 
             alt="ForgePoint Healthcare Consulting" 
-            className="h-10 md:h-12 w-auto object-contain"
+            className="h-12 md:h-14 w-auto object-contain"
             fetchPriority="high"
           />
         </Link>
