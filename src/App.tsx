@@ -5,6 +5,7 @@ import Services from "./pages/Services";
 import AboutContact from "./pages/AboutContact";
 
 export default function App() {
+  // Trigger Vercel rebuild for public assets
   return (
     <Router>
       <Layout>
