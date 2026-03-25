@@ -78,10 +78,10 @@ export default function Services() {
                   <img 
                     src={
                       idx === 0 
-                        ? "/payor_contracting_renegotiation.png" 
+                        ? "/payor_contracting_renegotiation.jpg" 
                         : idx === 1 
-                        ? "/credentialing_services.png"
-                        : "/strategic_advisory.png"
+                        ? "/credentialing_services.jpg"
+                        : "/strategic_advisory.jpg"
                     }
                     alt={section.title}
                     className="w-full h-[420px] object-cover"
